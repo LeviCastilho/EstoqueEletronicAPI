@@ -51,7 +51,7 @@ Com o servidor em execução, abra o navegador e vá para http://localhost:3000
 PRONTO! Agora você pode usar o EstoqueEletronicAPI localmente para gerenciar o seu estoque!
 
 ## Documentação da API
-A documentação completa da API pode ser encontrada no link "     "
+A documentação completa da API pode ser encontrada no link "https://documenter.getpostman.com/view/37604490/2sAXxWYUBU"
 
 ## 🛠 Contribuidores
 
