@@ -24,12 +24,3 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`Servidor rodando na porta ${PORT}`);
 });
-
-
-db.raw('SELECT 1')
-  .then(() => {
-    console.log('Conectado ao banco de dados com sucesso!');
-  })
-  .catch((err) => {
-    console.error('Erro ao conectar ao banco de dados:', err);
-  });
